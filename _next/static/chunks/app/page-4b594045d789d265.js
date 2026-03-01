@@ -169,7 +169,7 @@
                         className: "mt-8 flex flex-wrap items-center gap-4",
                         children: [
                           (0, C.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
                             className:
                               "inline-flex items-center justify-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-black bg-black text-[var(--e-global-color-primary,#F0B90B)] hover:bg-transparent hover:text-black transition",
                             children: "Buy Now",
@@ -352,7 +352,7 @@
       ];
       function n(e) {
         let {
-          tokenCA: a = "0xcomingsoon",
+          tokenCA: a = "0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
           steps: t = i,
           sideMedia: l,
         } = e;
@@ -455,7 +455,7 @@
                           children: "Buy on PancakeSwap",
                         }),
                         (0, C.jsx)(r(), {
-                          href: "https://www.dexscreener.com/bsc/0xcomingsoon",
+                          href: "https://www.dexscreener.com/bsc/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
                           target: "_blank",
                           className:
                             "inline-flex items-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-white/30 text-white hover:bg-white/10 transition",
@@ -507,7 +507,7 @@
           },
           {
             label: "DexScreener",
-            href: "https://dexscreener.com/bsc/0xcomingsoon",
+            href: "https://dexscreener.com/bsc/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
             Icon: (e) =>
               (0, C.jsxs)("svg", {
                 "aria-hidden": "true",
@@ -534,7 +534,7 @@
           },
           {
             label: "DEXTools",
-            href: "https://www.dextools.io/app/en/bsc/pair-explorer/0xcomingsoon",
+            href: "https://www.dextools.io/app/en/bsc/pair-explorer/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 "aria-hidden": "true",
@@ -866,7 +866,7 @@
                   className: "mt-8 flex  justify-center gap-4",
                   children: [
                     (0, C.jsx)("a", {
-                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
@@ -894,7 +894,7 @@
                       }),
                     }),
                     (0, C.jsx)("a", {
-                      href: "https://www.dexscreener.com/bsc/0xcomingsoon",
+                      href: "https://www.dexscreener.com/bsc/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
