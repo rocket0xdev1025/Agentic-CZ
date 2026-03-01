@@ -245,9 +245,9 @@
         { label: "Ticker", value: "$Agentic CZ" },
         { label: "Chain", value: "BNB Smart Chain (BEP-20)" },
         { label: "Total Supply", value: "1,000,000,000 $Agentic CZ" },
-        // { label: "Liquidity", value: "Burnt", hint: "LP is locked" },
-        // { label: "Contract", value: "Renounced" },
-        // { label: "Buy/Sell Tax", value: "0% / 0%" },
+        { label: "Liquidity", value: "Burnt", hint: "LP is locked" },
+        { label: "Contract", value: "Renounced" },
+        { label: "Buy/Sell Tax", value: "0% / 0%" },
       ];
       function l(e) {
         let { items: a = s, title: t = "Tokenomics" } = e;
