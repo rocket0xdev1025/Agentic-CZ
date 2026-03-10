@@ -105,7 +105,7 @@
             (0, C.jsx)("div", {
               className: " pt-6",
               children: (0, C.jsx)(i, {
-                text: "WELCOME TO Agentic CZ",
+                text: "WELCOME TO Building the AI Era",
                 gap: 40,
                 speed: 40,
               }),
@@ -160,7 +160,7 @@
                         children: [
                           (0, C.jsxs)("p", {
                             children: [
-                              "An autonomous AI agent fully trained to replicate CZ’s voice, tone, and posting style — operating independently on social media. Agentic CZ is powered entirely by an advanced AI system, generating and publishing tweets in real time, aligned with CZ’s mindset, communication patterns, and crypto-native energy. Every post is created by the AI Agent, delivering consistent insights, engagement, and signature CZ-style commentary.",
+                              "As of 2025, Binance has deployed 24 AI-driven initiatives focused on compliance and introduced 100+ AI models dedicated to anti-fraud protection. These systems operate continuously, reinforcing the platform’s security, integrity, and trust around the clock. And the building never stops.",
                             ],
                           }),
                         ],
@@ -169,7 +169,7 @@
                         className: "mt-8 flex flex-wrap items-center gap-4",
                         children: [
                           (0, C.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                             className:
                               "inline-flex items-center justify-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-black bg-black text-[var(--e-global-color-primary,#F0B90B)] hover:bg-transparent hover:text-black transition",
                             children: "Buy Now",
@@ -242,10 +242,10 @@
       var C = t(5155);
       t(2115);
       let s = [
-        { label: "Ticker", value: "$Agentic CZ" },
+        { label: "Ticker", value: "$B" },
         { label: "Chain", value: "BNB Smart Chain (BEP-20)" },
-        { label: "Total Supply", value: "1,000,000,000 $Agentic CZ" },
-        { label: "Liquidity", value: "Burnt", hint: "LP is locked" },
+        { label: "Total Supply", value: "1,000,000,000 $B" },
+        { label: "Liquidity", value: "Locked", hint: "LP is locked" },
         { label: "Contract", value: "Renounced" },
         { label: "Buy/Sell Tax", value: "0% / 0%" },
       ];
@@ -341,18 +341,18 @@
           id: 4,
           badgeSrc: "/steps/step4.png",
           alt: "Step 4",
-          text: "Select $Agentic CZ (Agentic CZ). Paste the contract if needed, choose your BNB amount, set slippage if required, and swap.",
+          text: "Select $B (Building the AI Era). Paste the contract if needed, choose your BNB amount, set slippage if required, and swap.",
         },
         {
           id: 5,
           badgeSrc: "/steps/step5.png",
           alt: "Step 5",
-          text: "After the transaction confirms, add the token to your wallet and verify your $Agentic CZ balance.",
+          text: "After the transaction confirms, add the token to your wallet and verify your $B balance.",
         },
       ];
       function n(e) {
         let {
-          tokenCA: a = "0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+          tokenCA: a = "0xcomingsoon",
           steps: t = i,
           sideMedia: l,
         } = e;
@@ -393,7 +393,7 @@
                       children: [
                         (0, C.jsx)(s.default, {
                           src: "/how-to.jpg",
-                          alt: "Agentic CZ — How to Buy",
+                          alt: "Building the AI Era — How to Buy",
                           fill: !0,
                           className: "object-contain",
                           priority: !0,
@@ -455,7 +455,7 @@
                           children: "Buy on PancakeSwap",
                         }),
                         (0, C.jsx)(r(), {
-                          href: "https://www.dexscreener.com/bsc/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+                          href: "https://www.dexscreener.com/bsc/0xcomingsoon",
                           target: "_blank",
                           className:
                             "inline-flex items-center px-5 py-3 font-bold uppercase tracking-wide border-2 border-white/30 text-white hover:bg-white/10 transition",
@@ -481,7 +481,7 @@
       let r = [
           {
             label: "Telegram",
-            href: "https://t.me/CZ_Agentic",
+            href: "https://t.me/B_AIEra",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 viewBox: "0 0 448 512",
@@ -494,7 +494,7 @@
           },
           {
             label: "X (Twitter)",
-            href: "https://x.com/CZ_Agentic",
+            href: "https://x.com/B_AIEra",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 viewBox: "0 0 512 512",
@@ -507,7 +507,7 @@
           },
           {
             label: "DexScreener",
-            href: "https://dexscreener.com/bsc/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+            href: "https://dexscreener.com/bsc/0xcomingsoon",
             Icon: (e) =>
               (0, C.jsxs)("svg", {
                 "aria-hidden": "true",
@@ -534,7 +534,7 @@
           },
           {
             label: "DEXTools",
-            href: "https://www.dextools.io/app/en/bsc/pair-explorer/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+            href: "https://www.dextools.io/app/en/bsc/pair-explorer/0xcomingsoon",
             Icon: (e) =>
               (0, C.jsx)("svg", {
                 "aria-hidden": "true",
@@ -737,7 +737,7 @@
                     (0, C.jsx)("h1", {
                       className:
                         "text-yellow-400 text-4xl md:text-6xl  font-sans mt-2",
-                      children: "Agentic CZ",
+                      children: "Building the AI Era",
                     }),
                   ],
                 }),
@@ -842,7 +842,7 @@
                   children: [
                     (0, C.jsx)("span", {
                       style: { color: "var(--e-global-color-primary)" },
-                      children: "Agentic CZ",
+                      children: "Building the AI Era",
                     }),
                     (0, C.jsx)("span", {
                       style: {
@@ -860,13 +860,13 @@
                   className:
                     "font-mono md:font-semibold mt-4 text-xs max-w-[90%] md:text-lg text-white/80 md:max-w-xl",
                   children:
-                    "An autonomous agent fully trained to mimic CZ's style — tweeting.",
+                    "B is for Building the AI Era.",
                 }),
                 (0, C.jsxs)("div", {
                   className: "mt-8 flex  justify-center gap-4",
                   children: [
                     (0, C.jsx)("a", {
-                      href: "https://pancakeswap.finance/swap?outputCurrency=0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {
@@ -894,7 +894,7 @@
                       }),
                     }),
                     (0, C.jsx)("a", {
-                      href: "https://www.dexscreener.com/bsc/0x579A3bdc4dC749d8E2F6999368D8903FdBfc2643",
+                      href: "https://www.dexscreener.com/bsc/0xcomingsoon",
                       className:
                         "group relative inline-block skew-x-[-12deg] select-none",
                       children: (0, C.jsxs)("span", {

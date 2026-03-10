@@ -154,7 +154,7 @@
                       children: [
                         (0, a.jsx)("span", {
                           style: { color: "var(--e-global-color-primary)" },
-                          children: "Agentic CZ",
+                          children: "Building the AI Era",
                         }),
                         (0, a.jsx)("span", {
                           style: {
